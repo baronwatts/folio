@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-04-30 21:44:44
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.16
+WORDPRESS:	4.1.1
+PHP INFO:	5.6.3 | SAPI: apache2handler
+SERVER:		Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.6.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 17.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:17 | filtered:0 | create:17 
+FILTERED: [] 
+SQL CREATED: 20150430_folio_5542a23ce42422271150430214428_database.sql 
+SQL FILE SIZE: 357.43KB 
+SQL FILE TIME: 2015-04-30 21:44:45 
+SQL RUNTIME: 0.59 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/baron-wordpress/project 
+ARCHIVE FILE: 20150430_folio_5542a23ce42422271150430214428_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	75.69MB 
+STATS:	Dirs 245 | Files 2,118 | Links 0 
+SQL ADDED: 20150430_folio_5542a23ce42422271150430214428_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2363
+    [filename] => C:\xampp\htdocs\baron-wordpress\project\wp-snapshots\tmp\20150430_folio_5542a23ce42422271150430214428_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 57.94MB 
+ARCHIVE RUNTIME: 33.79 sec. 
+MEMORY STACK: 18.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/baron-wordpress/project/wp-snapshots/tmp/20150430_folio_5542a23ce42422271150430214428_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 357.43KB 
+Installer File: 316.88KB 
+Archive File: 57.94MB  
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 35.76 sec.
+PEAK PHP MEMORY USED: 21.5MB
+DONE PROCESSING => 20150430_folio 2015-04-30 21:45:20
+ 
